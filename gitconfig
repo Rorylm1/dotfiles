@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rlesliemelville1@gmail.com
+	name = Rory Leslie Melville
